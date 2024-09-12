@@ -40,7 +40,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 1. Clone the repository:
 
 \```bash
-git clone https://github.com/yourusername/Iris-Classification.git
+git clone https://github.com/ayankins/Iris-Classification.git
 \```
 
 2. Navigate to the project directory:
